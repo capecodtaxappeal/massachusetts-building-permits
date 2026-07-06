@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-07-06** — 100 recent Massachusetts building permits in this sample. Busiest towns: Boston (33), Dorchester (16), Hingham (11), East Boston (6), Roxbury (6), Mattapan (5), Braintree (3), Allston (3).
+**Updated 2026-07-06** — 100 recent Massachusetts building permits in this sample. Busiest towns: Boston (34), Dorchester (12), Braintree (10), Roslindale (6), Roxbury (6), Jamaica Plain (6), Mattapan (5), Hyde Park (5).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-07-02 | East Boston | Electrical | $7,000 |
-| 2026-07-02 | Roslindale | Electrical | $19,650 |
-| 2026-07-02 | Dorchester | Solar | $68,400 |
-| 2026-07-02 | Boston | HVAC | $353,000 |
-| 2026-07-02 | Braintree | Windows/Doors/Siding | — |
-| 2026-07-02 | Braintree | Kitchen/Bath | — |
-| 2026-07-02 | Braintree | Other | — |
-| 2026-07-02 | Hingham | Gas | — |
-| 2026-07-02 | Hingham | Renovation/Remodel | — |
-| 2026-07-02 | Hingham | Other | — |
-| 2026-07-02 | Hingham | Other | — |
-| 2026-07-02 | Hingham | Other | — |
-| 2026-07-02 | Hingham | Other | — |
-| 2026-07-02 | Hingham | Plumbing | — |
-| 2026-07-02 | Hingham | Electrical | — |
+| 2026-07-06 | Braintree | Other | — |
+| 2026-07-06 | Hingham | Electrical | — |
+| 2026-07-06 | Hingham | Other | — |
+| 2026-07-05 | Braintree | Other | — |
+| 2026-07-05 | Braintree | Windows/Doors/Siding | — |
+| 2026-07-05 | Braintree | Kitchen/Bath | — |
+| 2026-07-04 | Braintree | Other | — |
+| 2026-07-04 | Braintree | Roofing | — |
+| 2026-07-04 | Braintree | Plumbing | — |
+| 2026-07-03 | Brighton | Electrical | $16,000 |
+| 2026-07-03 | Brighton | Plumbing | $5,000 |
+| 2026-07-03 | Braintree | Kitchen/Bath | — |
+| 2026-07-03 | Braintree | Plumbing | — |
+| 2026-07-03 | Braintree | HVAC | — |
+| 2026-07-02 | Charlestown | Electrical | $5,000 |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
