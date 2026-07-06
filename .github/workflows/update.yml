@@ -1,0 +1,39 @@
+name: Update permit sample
+
+# Pulls the public MassPermits JSON feed weekly and refreshes the sample files +
+# README table. No secrets. Mondays 13:00 UTC — after the MassPermits Monday data
+# refresh (09:00 UTC) so this always reflects the freshest permits.
+on:
+  schedule:
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update.yml"   # first push = immediate live test
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-sample
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh sample from public feed
+        run: python fetch.py
+      - name: Commit if changed
+        run: |
+          git config user.name "masspermits-sample-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "sample: weekly permit refresh (automated)" && git push \
+            || echo "no changes this week"

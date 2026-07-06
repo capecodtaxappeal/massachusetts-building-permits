@@ -1,0 +1,36 @@
+{
+ "updated": "2026-07-06",
+ "sample_size": 100,
+ "by_town": {
+  "Boston": 33,
+  "Dorchester": 16,
+  "Hingham": 11,
+  "East Boston": 6,
+  "Roxbury": 6,
+  "Mattapan": 5,
+  "Braintree": 3,
+  "Allston": 3,
+  "Jamaica Plain": 3,
+  "Brighton": 3,
+  "Roslindale": 2,
+  "Rockland": 2,
+  "Hyde Park": 2,
+  "Charlestown": 2,
+  "South Boston": 2
+ },
+ "by_trade": {
+  "Electrical": 35,
+  "HVAC": 18,
+  "Plumbing": 12,
+  "Windows/Doors/Siding": 7,
+  "Other": 7,
+  "Renovation/Remodel": 6,
+  "Solar": 4,
+  "Kitchen/Bath": 3,
+  "Roofing": 3,
+  "Gas": 2,
+  "Demolition": 2,
+  "Deck/Porch": 1
+ },
+ "source": "https://masspermits.com/feed/permits.json"
+}
