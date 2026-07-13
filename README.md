@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-07-06** — 100 recent Massachusetts building permits in this sample. Busiest towns: Boston (34), Dorchester (12), Braintree (10), Roslindale (6), Roxbury (6), Jamaica Plain (6), Mattapan (5), Hyde Park (5).
+**Updated 2026-07-13** — 100 recent Massachusetts building permits in this sample. Busiest towns: Yarmouth (12), Hingham (11), Chatham (10), Dennis (9), Eastham (7), Braintree (6), Bourne (6), Falmouth (5).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-07-06 | Braintree | Other | — |
-| 2026-07-06 | Hingham | Electrical | — |
-| 2026-07-06 | Hingham | Other | — |
-| 2026-07-05 | Braintree | Other | — |
-| 2026-07-05 | Braintree | Windows/Doors/Siding | — |
-| 2026-07-05 | Braintree | Kitchen/Bath | — |
-| 2026-07-04 | Braintree | Other | — |
-| 2026-07-04 | Braintree | Roofing | — |
-| 2026-07-04 | Braintree | Plumbing | — |
-| 2026-07-03 | Brighton | Electrical | $16,000 |
-| 2026-07-03 | Brighton | Plumbing | $5,000 |
-| 2026-07-03 | Braintree | Kitchen/Bath | — |
-| 2026-07-03 | Braintree | Plumbing | — |
-| 2026-07-03 | Braintree | HVAC | — |
-| 2026-07-02 | Charlestown | Electrical | $5,000 |
+| 2026-07-13 | Braintree | Gas | — |
+| 2026-07-13 | Hingham | Plumbing | — |
+| 2026-07-13 | Hingham | Gas | — |
+| 2026-07-13 | Hingham | Electrical | — |
+| 2026-07-13 | Hingham | Electrical | — |
+| 2026-07-13 | Hingham | Electrical | — |
+| 2026-07-13 | Hingham | Gas | — |
+| 2026-07-13 | Hingham | Plumbing | — |
+| 2026-07-13 | Hingham | Electrical | — |
+| 2026-07-13 | Hingham | Electrical | — |
+| 2026-07-13 | Hingham | HVAC | — |
+| 2026-07-13 | Hingham | Plumbing | — |
+| 2026-07-13 | Rockland | Renovation/Remodel | — |
+| 2026-07-13 | Rockland | Other | — |
+| 2026-07-13 | Rockland | Gas | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
