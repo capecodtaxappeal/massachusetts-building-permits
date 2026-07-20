@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-07-13** — 100 recent Massachusetts building permits in this sample. Busiest towns: Yarmouth (12), Hingham (11), Chatham (10), Dennis (9), Eastham (7), Braintree (6), Bourne (6), Falmouth (5).
+**Updated 2026-07-20** — 100 recent Massachusetts building permits in this sample. Busiest towns: Cambridge (11), Plymouth (10), Braintree (9), Dennis (5), Wellesley (5), Newton (5), Marshfield (4), Framingham (4).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-07-13 | Braintree | Gas | — |
-| 2026-07-13 | Hingham | Plumbing | — |
-| 2026-07-13 | Hingham | Gas | — |
-| 2026-07-13 | Hingham | Electrical | — |
-| 2026-07-13 | Hingham | Electrical | — |
-| 2026-07-13 | Hingham | Electrical | — |
-| 2026-07-13 | Hingham | Gas | — |
-| 2026-07-13 | Hingham | Plumbing | — |
-| 2026-07-13 | Hingham | Electrical | — |
-| 2026-07-13 | Hingham | Electrical | — |
-| 2026-07-13 | Hingham | HVAC | — |
-| 2026-07-13 | Hingham | Plumbing | — |
-| 2026-07-13 | Rockland | Renovation/Remodel | — |
-| 2026-07-13 | Rockland | Other | — |
-| 2026-07-13 | Rockland | Gas | — |
+| 2026-07-20 | Braintree | Kitchen/Bath | — |
+| 2026-07-20 | Braintree | Other | — |
+| 2026-07-20 | Braintree | Other | — |
+| 2026-07-20 | Braintree | Other | — |
+| 2026-07-20 | Braintree | Kitchen/Bath | — |
+| 2026-07-20 | Braintree | Other | — |
+| 2026-07-20 | Braintree | Kitchen/Bath | — |
+| 2026-07-20 | Braintree | Electrical | — |
+| 2026-07-20 | Braintree | Other | — |
+| 2026-07-20 | Hingham | Electrical | — |
+| 2026-07-20 | Hingham | HVAC | — |
+| 2026-07-20 | Rockland | Electrical | — |
+| 2026-07-20 | Falmouth | Gas | — |
+| 2026-07-20 | Falmouth | Other | — |
+| 2026-07-20 | Falmouth | Electrical | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
