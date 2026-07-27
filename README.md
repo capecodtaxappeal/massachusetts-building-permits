@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-07-20** — 100 recent Massachusetts building permits in this sample. Busiest towns: Cambridge (11), Plymouth (10), Braintree (9), Dennis (5), Wellesley (5), Newton (5), Marshfield (4), Framingham (4).
+**Updated 2026-07-27** — 100 recent Massachusetts building permits in this sample. Busiest towns: Plymouth (9), Marshfield (7), Easton (5), Fairhaven (5), Bourne (5), Quincy (5), Randolph (4), Taunton (4).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-07-20 | Braintree | Kitchen/Bath | — |
-| 2026-07-20 | Braintree | Other | — |
-| 2026-07-20 | Braintree | Other | — |
-| 2026-07-20 | Braintree | Other | — |
-| 2026-07-20 | Braintree | Kitchen/Bath | — |
-| 2026-07-20 | Braintree | Other | — |
-| 2026-07-20 | Braintree | Kitchen/Bath | — |
-| 2026-07-20 | Braintree | Electrical | — |
-| 2026-07-20 | Braintree | Other | — |
-| 2026-07-20 | Hingham | Electrical | — |
-| 2026-07-20 | Hingham | HVAC | — |
-| 2026-07-20 | Rockland | Electrical | — |
-| 2026-07-20 | Falmouth | Gas | — |
-| 2026-07-20 | Falmouth | Other | — |
-| 2026-07-20 | Falmouth | Electrical | — |
+| 2026-07-27 | Braintree | Other | — |
+| 2026-07-27 | Braintree | Building | — |
+| 2026-07-27 | Falmouth | Gas | — |
+| 2026-07-27 | Falmouth | Gas | — |
+| 2026-07-27 | Falmouth | Plumbing | — |
+| 2026-07-27 | Mashpee | Renovation/Remodel | — |
+| 2026-07-27 | Mashpee | Gas | — |
+| 2026-07-27 | Sandwich | Electrical | — |
+| 2026-07-27 | Sandwich | Gas | — |
+| 2026-07-27 | Randolph | Deck/Porch | — |
+| 2026-07-27 | Randolph | Electrical | — |
+| 2026-07-27 | Randolph | Renovation/Remodel | — |
+| 2026-07-27 | Randolph | Renovation/Remodel | — |
+| 2026-07-27 | Stoughton | Building | — |
+| 2026-07-27 | Easton | Plumbing | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
