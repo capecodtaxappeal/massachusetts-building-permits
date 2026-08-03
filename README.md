@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-07-27** — 100 recent Massachusetts building permits in this sample. Busiest towns: Plymouth (9), Marshfield (7), Easton (5), Fairhaven (5), Bourne (5), Quincy (5), Randolph (4), Taunton (4).
+**Updated 2026-08-03** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Rockland (3), Stoughton (3), Fairhaven (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-07-27 | Braintree | Other | — |
-| 2026-07-27 | Braintree | Building | — |
-| 2026-07-27 | Falmouth | Gas | — |
-| 2026-07-27 | Falmouth | Gas | — |
-| 2026-07-27 | Falmouth | Plumbing | — |
-| 2026-07-27 | Mashpee | Renovation/Remodel | — |
-| 2026-07-27 | Mashpee | Gas | — |
-| 2026-07-27 | Sandwich | Electrical | — |
-| 2026-07-27 | Sandwich | Gas | — |
-| 2026-07-27 | Randolph | Deck/Porch | — |
-| 2026-07-27 | Randolph | Electrical | — |
-| 2026-07-27 | Randolph | Renovation/Remodel | — |
-| 2026-07-27 | Randolph | Renovation/Remodel | — |
-| 2026-07-27 | Stoughton | Building | — |
-| 2026-07-27 | Easton | Plumbing | — |
+| 2026-08-01 | Braintree | Building | — |
+| 2026-08-01 | Rockland | Electrical | — |
+| 2026-08-01 | Rockland | Windows/Doors/Siding | — |
+| 2026-08-01 | Stoughton | Electrical | — |
+| 2026-08-01 | Stoughton | Building | — |
+| 2026-08-01 | Fairhaven | Electrical | — |
+| 2026-07-31 | Braintree | Roofing | — |
+| 2026-07-31 | Braintree | Other | — |
+| 2026-07-31 | Rockland | Electrical | — |
+| 2026-07-31 | Falmouth | Gas | — |
+| 2026-07-31 | Falmouth | Gas | — |
+| 2026-07-31 | Falmouth | Other | — |
+| 2026-07-31 | Mashpee | Gas | — |
+| 2026-07-31 | Mashpee | Renovation/Remodel | — |
+| 2026-07-31 | Mashpee | Gas | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
