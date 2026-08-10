@@ -11,7 +11,7 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-08-03** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Rockland (3), Stoughton (3), Fairhaven (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3).
+**Updated 2026-08-10** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Rockland (3), Stoughton (3), Fairhaven (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
