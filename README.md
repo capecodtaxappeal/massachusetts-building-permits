@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-08-10** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Rockland (3), Stoughton (3), Fairhaven (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3).
+**Updated 2026-08-17** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Attleboro (3), Rockland (3), Mashpee (3), Sandwich (3), Stoughton (3), Easton (3), Hanson (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-08-01 | Braintree | Building | — |
-| 2026-08-01 | Rockland | Electrical | — |
-| 2026-08-01 | Rockland | Windows/Doors/Siding | — |
-| 2026-08-01 | Stoughton | Electrical | — |
-| 2026-08-01 | Stoughton | Building | — |
-| 2026-08-01 | Fairhaven | Electrical | — |
-| 2026-07-31 | Braintree | Roofing | — |
-| 2026-07-31 | Braintree | Other | — |
-| 2026-07-31 | Rockland | Electrical | — |
-| 2026-07-31 | Falmouth | Gas | — |
-| 2026-07-31 | Falmouth | Gas | — |
-| 2026-07-31 | Falmouth | Other | — |
-| 2026-07-31 | Mashpee | Gas | — |
-| 2026-07-31 | Mashpee | Renovation/Remodel | — |
-| 2026-07-31 | Mashpee | Gas | — |
+| 2026-08-17 | Braintree | Windows/Doors/Siding | — |
+| 2026-08-17 | Braintree | Roofing | — |
+| 2026-08-17 | Attleboro | Gas | — |
+| 2026-08-16 | Braintree | Deck/Porch | — |
+| 2026-08-16 | Rockland | Plumbing | — |
+| 2026-08-16 | Rockland | Plumbing | — |
+| 2026-08-16 | Mashpee | Electrical | — |
+| 2026-08-16 | Mashpee | Electrical | — |
+| 2026-08-16 | Sandwich | Renovation/Remodel | — |
+| 2026-08-16 | Stoughton | Building | — |
+| 2026-08-16 | Easton | Renovation/Remodel | — |
+| 2026-08-16 | Easton | Other | — |
+| 2026-08-16 | Hanson | HVAC | — |
+| 2026-08-16 | Attleboro | Renovation/Remodel | — |
+| 2026-08-16 | Attleboro | Building | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
