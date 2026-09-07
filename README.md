@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-08-31** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Hingham (3), Rockland (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Milton (3).
+**Updated 2026-09-07** — 100 recent Massachusetts building permits in this sample. Busiest towns: Rockland (3), Mashpee (3), Sandwich (3), Hanson (3), Attleboro (3), Fairhaven (3), Stoughton (3), Cambridge (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-08-31 | Braintree | Other | — |
-| 2026-08-31 | Braintree | Other | — |
-| 2026-08-31 | Braintree | Kitchen/Bath | — |
-| 2026-08-31 | Hingham | Gas | — |
-| 2026-08-31 | Hingham | Gas | — |
-| 2026-08-31 | Hingham | Plumbing | — |
-| 2026-08-31 | Rockland | Renovation/Remodel | — |
-| 2026-08-31 | Rockland | Renovation/Remodel | — |
-| 2026-08-31 | Rockland | Roofing | — |
-| 2026-08-31 | Falmouth | Gas | — |
-| 2026-08-31 | Falmouth | Gas | — |
-| 2026-08-31 | Falmouth | Electrical | — |
-| 2026-08-31 | Mashpee | Renovation/Remodel | — |
-| 2026-08-31 | Mashpee | Renovation/Remodel | — |
-| 2026-08-31 | Mashpee | Gas | — |
+| 2026-09-07 | Rockland | Other | — |
+| 2026-09-07 | Mashpee | Gas | — |
+| 2026-09-07 | Sandwich | Gas | — |
+| 2026-09-07 | Sandwich | Plumbing | — |
+| 2026-09-07 | Sandwich | Renovation/Remodel | — |
+| 2026-09-07 | Hanson | Renovation/Remodel | — |
+| 2026-09-07 | Attleboro | Renovation/Remodel | — |
+| 2026-09-07 | Attleboro | Renovation/Remodel | — |
+| 2026-09-07 | Fairhaven | Electrical | — |
+| 2026-09-07 | Fairhaven | Electrical | — |
+| 2026-09-06 | Mashpee | Electrical | — |
+| 2026-09-06 | Stoughton | Building | — |
+| 2026-09-06 | Stoughton | Electrical | — |
+| 2026-09-06 | Fairhaven | Renovation/Remodel | — |
+| 2026-09-06 | Cambridge | HVAC | $1,000 |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
