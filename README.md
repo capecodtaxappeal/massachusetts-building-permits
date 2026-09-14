@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-09-07** — 100 recent Massachusetts building permits in this sample. Busiest towns: Rockland (3), Mashpee (3), Sandwich (3), Hanson (3), Attleboro (3), Fairhaven (3), Stoughton (3), Cambridge (3).
+**Updated 2026-09-14** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Hingham (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Stoughton (3), Easton (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-09-07 | Rockland | Other | — |
-| 2026-09-07 | Mashpee | Gas | — |
-| 2026-09-07 | Sandwich | Gas | — |
-| 2026-09-07 | Sandwich | Plumbing | — |
-| 2026-09-07 | Sandwich | Renovation/Remodel | — |
-| 2026-09-07 | Hanson | Renovation/Remodel | — |
-| 2026-09-07 | Attleboro | Renovation/Remodel | — |
-| 2026-09-07 | Attleboro | Renovation/Remodel | — |
-| 2026-09-07 | Fairhaven | Electrical | — |
-| 2026-09-07 | Fairhaven | Electrical | — |
-| 2026-09-06 | Mashpee | Electrical | — |
-| 2026-09-06 | Stoughton | Building | — |
-| 2026-09-06 | Stoughton | Electrical | — |
-| 2026-09-06 | Fairhaven | Renovation/Remodel | — |
-| 2026-09-06 | Cambridge | HVAC | $1,000 |
+| 2026-09-14 | Braintree | Plumbing | — |
+| 2026-09-14 | Braintree | Plumbing | — |
+| 2026-09-14 | Braintree | Plumbing | — |
+| 2026-09-14 | Hingham | HVAC | — |
+| 2026-09-14 | Hingham | Electrical | — |
+| 2026-09-14 | Hingham | Other | — |
+| 2026-09-14 | Rockland | Windows/Doors/Siding | — |
+| 2026-09-14 | Falmouth | Electrical | — |
+| 2026-09-14 | Falmouth | Gas | — |
+| 2026-09-14 | Falmouth | Plumbing | — |
+| 2026-09-14 | Mashpee | Building | — |
+| 2026-09-14 | Mashpee | Electrical | — |
+| 2026-09-14 | Mashpee | Electrical | — |
+| 2026-09-14 | Sandwich | Electrical | — |
+| 2026-09-14 | Sandwich | Gas | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
