@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-09-14** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Hingham (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Stoughton (3), Easton (3).
+**Updated 2026-09-21** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Hingham (3), Rockland (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Milton (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-09-14 | Braintree | Plumbing | — |
-| 2026-09-14 | Braintree | Plumbing | — |
-| 2026-09-14 | Braintree | Plumbing | — |
-| 2026-09-14 | Hingham | HVAC | — |
-| 2026-09-14 | Hingham | Electrical | — |
-| 2026-09-14 | Hingham | Other | — |
-| 2026-09-14 | Rockland | Windows/Doors/Siding | — |
-| 2026-09-14 | Falmouth | Electrical | — |
-| 2026-09-14 | Falmouth | Gas | — |
-| 2026-09-14 | Falmouth | Plumbing | — |
-| 2026-09-14 | Mashpee | Building | — |
-| 2026-09-14 | Mashpee | Electrical | — |
-| 2026-09-14 | Mashpee | Electrical | — |
-| 2026-09-14 | Sandwich | Electrical | — |
-| 2026-09-14 | Sandwich | Gas | — |
+| 2026-09-21 | Braintree | Renovation/Remodel | — |
+| 2026-09-21 | Braintree | Renovation/Remodel | — |
+| 2026-09-21 | Braintree | Renovation/Remodel | — |
+| 2026-09-21 | Hingham | Building | — |
+| 2026-09-21 | Hingham | Electrical | — |
+| 2026-09-21 | Hingham | Plumbing | — |
+| 2026-09-21 | Rockland | Gas | — |
+| 2026-09-21 | Rockland | Plumbing | — |
+| 2026-09-21 | Rockland | Electrical | — |
+| 2026-09-21 | Falmouth | Gas | — |
+| 2026-09-21 | Falmouth | Electrical | — |
+| 2026-09-21 | Falmouth | Electrical | — |
+| 2026-09-21 | Mashpee | Gas | — |
+| 2026-09-21 | Mashpee | Renovation/Remodel | — |
+| 2026-09-21 | Mashpee | Electrical | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
