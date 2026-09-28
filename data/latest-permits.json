@@ -1,702 +1,702 @@
 [
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Roxbury",
+  "trade": "Plumbing",
+  "value": 3000.0,
+  "permit_page": "https://masspermits.com/permits/roxbury-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Roxbury",
+  "trade": "Gas",
+  "value": 300.0,
+  "permit_page": "https://masspermits.com/permits/roxbury-gas"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Braintree",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/braintree-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Braintree",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/braintree-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Braintree",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/braintree-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Hingham",
-  "trade": "Building",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/hingham-building"
- },
- {
-  "date": "2026-09-21",
-  "town": "Hingham",
   "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/hingham-electrical"
+  "permit_page": "https://masspermits.com/permits/braintree-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Braintree",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/braintree-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Braintree",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/braintree-electrical"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Hingham",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/hingham-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Hingham",
   "trade": "Plumbing",
   "value": "",
   "permit_page": "https://masspermits.com/permits/hingham-plumbing"
  },
  {
-  "date": "2026-09-21",
-  "town": "Rockland",
-  "trade": "Gas",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/rockland-gas"
- },
- {
-  "date": "2026-09-21",
-  "town": "Rockland",
+  "date": "2026-09-28",
+  "town": "Hingham",
   "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/rockland-plumbing"
+  "permit_page": "https://masspermits.com/permits/hingham-plumbing"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Rockland",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/rockland-electrical"
  },
  {
-  "date": "2026-09-21",
-  "town": "Falmouth",
-  "trade": "Gas",
+  "date": "2026-09-28",
+  "town": "Rockland",
+  "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/falmouth-gas"
+  "permit_page": "https://masspermits.com/permits/rockland-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Falmouth",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/falmouth-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Falmouth",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/falmouth-plumbing"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Falmouth",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/falmouth-electrical"
  },
  {
-  "date": "2026-09-21",
-  "town": "Mashpee",
-  "trade": "Gas",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/mashpee-gas"
- },
- {
-  "date": "2026-09-21",
-  "town": "Mashpee",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/mashpee-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Mashpee",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/mashpee-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Mashpee",
+  "trade": "Gas",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/mashpee-gas"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Mashpee",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/mashpee-electrical"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Sandwich",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/sandwich-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Sandwich",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/sandwich-electrical"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Sandwich",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/sandwich-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "Sandwich",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/sandwich-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Randolph",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/randolph-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Randolph",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/randolph-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Randolph",
-  "trade": "Gas",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/randolph-gas"
+  "permit_page": "https://masspermits.com/permits/randolph-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Randolph",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/randolph-plumbing"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Milton",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/milton-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Milton",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/milton-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Milton",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/milton-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Stoughton",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/stoughton-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Stoughton",
   "trade": "Gas",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/stoughton-gas"
+  "permit_page": "https://masspermits.com/permits/milton-gas"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Milton",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/milton-plumbing"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Stoughton",
   "trade": "Building",
   "value": "",
   "permit_page": "https://masspermits.com/permits/stoughton-building"
  },
  {
-  "date": "2026-09-21",
-  "town": "Easton",
+  "date": "2026-09-28",
+  "town": "Stoughton",
   "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/easton-electrical"
+  "permit_page": "https://masspermits.com/permits/stoughton-electrical"
  },
  {
-  "date": "2026-09-21",
-  "town": "Easton",
-  "trade": "Electrical",
+  "date": "2026-09-28",
+  "town": "Stoughton",
+  "trade": "Building",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/easton-electrical"
+  "permit_page": "https://masspermits.com/permits/stoughton-building"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Easton",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/easton-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Bridgewater",
   "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/bridgewater-plumbing"
+  "permit_page": "https://masspermits.com/permits/easton-plumbing"
  },
  {
-  "date": "2026-09-21",
-  "town": "Bridgewater",
+  "date": "2026-09-28",
+  "town": "Easton",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/easton-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Easton",
+  "trade": "Other",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/easton-other"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "West Bridgewater",
   "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/bridgewater-renovation-remodel"
+  "permit_page": "https://masspermits.com/permits/west-bridgewater-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "West Bridgewater",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/west-bridgewater-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "West Bridgewater",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/west-bridgewater-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "West Bridgewater",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/west-bridgewater-plumbing"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Hanson",
-  "trade": "Electrical",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/hanson-electrical"
+  "permit_page": "https://masspermits.com/permits/hanson-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "Hanson",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/hanson-electrical"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Hanson",
   "trade": "Plumbing",
   "value": "",
   "permit_page": "https://masspermits.com/permits/hanson-plumbing"
  },
  {
-  "date": "2026-09-21",
-  "town": "Cohasset",
-  "trade": "Gas",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/cohasset-gas"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Cohasset",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/cohasset-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Cohasset",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/cohasset-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "Attleboro",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/attleboro-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Attleboro",
   "trade": "HVAC",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/attleboro-hvac"
+  "permit_page": "https://masspermits.com/permits/cohasset-hvac"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Attleboro",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/attleboro-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Attleboro",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/attleboro-plumbing"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Attleboro",
   "trade": "Gas",
   "value": "",
   "permit_page": "https://masspermits.com/permits/attleboro-gas"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Mansfield",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/mansfield-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Mansfield",
-  "trade": "Gas",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/mansfield-gas"
- },
- {
-  "date": "2026-09-21",
-  "town": "Mansfield",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/mansfield-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
-  "town": "Foxborough",
-  "trade": "Gas",
-  "value": 15000.0,
-  "permit_page": "https://masspermits.com/permits/foxborough-gas"
- },
- {
-  "date": "2026-09-21",
-  "town": "Foxborough",
   "trade": "Electrical",
-  "value": 1000.0,
-  "permit_page": "https://masspermits.com/permits/foxborough-electrical"
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/mansfield-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Mansfield",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/mansfield-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Mansfield",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/mansfield-electrical"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Foxborough",
   "trade": "Renovation/Remodel",
-  "value": 23900.0,
+  "value": 32000.0,
   "permit_page": "https://masspermits.com/permits/foxborough-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Foxborough",
+  "trade": "Renovation/Remodel",
+  "value": 17500.0,
+  "permit_page": "https://masspermits.com/permits/foxborough-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Foxborough",
+  "trade": "Renovation/Remodel",
+  "value": 2750.0,
+  "permit_page": "https://masspermits.com/permits/foxborough-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Fairhaven",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/fairhaven-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Fairhaven",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/fairhaven-electrical"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Fairhaven",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/fairhaven-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "Fairhaven",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/fairhaven-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Taunton",
-  "trade": "Gas",
-  "value": 2675.0,
-  "permit_page": "https://masspermits.com/permits/taunton-gas"
+  "trade": "Renovation/Remodel",
+  "value": 8477.0,
+  "permit_page": "https://masspermits.com/permits/taunton-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Taunton",
+  "trade": "Building",
+  "value": 116495.0,
+  "permit_page": "https://masspermits.com/permits/taunton-building"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Taunton",
+  "trade": "Renovation/Remodel",
+  "value": 25000.0,
+  "permit_page": "https://masspermits.com/permits/taunton-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Bellingham",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/bellingham-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Bellingham",
+  "trade": "Building",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/bellingham-building"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Bellingham",
   "trade": "Plumbing",
-  "value": 4959.0,
-  "permit_page": "https://masspermits.com/permits/taunton-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "Taunton",
-  "trade": "Gas",
-  "value": 24300.0,
-  "permit_page": "https://masspermits.com/permits/taunton-gas"
- },
- {
-  "date": "2026-09-21",
-  "town": "Bellingham",
-  "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/bellingham-electrical"
+  "permit_page": "https://masspermits.com/permits/bellingham-plumbing"
  },
  {
-  "date": "2026-09-21",
-  "town": "Bellingham",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/bellingham-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Bellingham",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/bellingham-electrical"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Chicopee",
-  "trade": "Building",
+  "trade": "HVAC",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/chicopee-building"
+  "permit_page": "https://masspermits.com/permits/chicopee-hvac"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Chicopee",
-  "trade": "Building",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/chicopee-building"
- },
- {
-  "date": "2026-09-21",
-  "town": "Chicopee",
-  "trade": "Building",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/chicopee-building"
- },
- {
-  "date": "2026-09-21",
-  "town": "Hopedale",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/hopedale-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Ludlow",
   "trade": "Other",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/ludlow-other"
+  "permit_page": "https://masspermits.com/permits/chicopee-other"
  },
  {
-  "date": "2026-09-21",
-  "town": "Ludlow",
+  "date": "2026-09-28",
+  "town": "Chicopee",
+  "trade": "Building",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/chicopee-building"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Hopedale",
   "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/ludlow-renovation-remodel"
+  "permit_page": "https://masspermits.com/permits/hopedale-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "Ludlow",
+  "date": "2026-09-28",
+  "town": "Hopedale",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/hopedale-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Hopedale",
   "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/ludlow-plumbing"
+  "permit_page": "https://masspermits.com/permits/hopedale-plumbing"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Ludlow",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/ludlow-electrical"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Ludlow",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/ludlow-electrical"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Ludlow",
+  "trade": "Electrical",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/ludlow-electrical"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Ipswich",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/ipswich-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Ipswich",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/ipswich-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Ipswich",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/ipswich-electrical"
  },
  {
-  "date": "2026-09-21",
-  "town": "Ipswich",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/ipswich-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "North Reading",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/north-reading-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "North Reading",
   "trade": "Plumbing",
   "value": "",
   "permit_page": "https://masspermits.com/permits/north-reading-plumbing"
  },
  {
-  "date": "2026-09-21",
-  "town": "Easthampton",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/easthampton-plumbing"
- },
- {
-  "date": "2026-09-21",
-  "town": "Easthampton",
+  "date": "2026-09-28",
+  "town": "North Reading",
   "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/easthampton-electrical"
+  "permit_page": "https://masspermits.com/permits/north-reading-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "North Reading",
+  "trade": "Gas",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/north-reading-gas"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Easthampton",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/easthampton-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Easthampton",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/easthampton-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Easthampton",
+  "trade": "HVAC",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/easthampton-hvac"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Otis",
+  "trade": "Renovation/Remodel",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/otis-renovation-remodel"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Otis",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/otis-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Otis",
+  "trade": "Gas",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/otis-gas"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Great Barrington",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/great-barrington-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Great Barrington",
+  "trade": "Other",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/great-barrington-other"
+ },
+ {
+  "date": "2026-09-28",
   "town": "Great Barrington",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/great-barrington-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lee",
-  "trade": "Electrical",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/lee-electrical"
+  "permit_page": "https://masspermits.com/permits/lee-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lee",
-  "trade": "Building",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/lee-building"
+  "permit_page": "https://masspermits.com/permits/lee-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lee",
-  "trade": "Electrical",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/lee-electrical"
+  "permit_page": "https://masspermits.com/permits/lee-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lenox",
-  "trade": "Electrical",
+  "trade": "Renovation/Remodel",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/lenox-electrical"
+  "permit_page": "https://masspermits.com/permits/lenox-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lenox",
   "trade": "Other",
   "value": "",
   "permit_page": "https://masspermits.com/permits/lenox-other"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Lenox",
   "trade": "Electrical",
   "value": "",
   "permit_page": "https://masspermits.com/permits/lenox-electrical"
  },
  {
-  "date": "2026-09-21",
-  "town": "Stockbridge",
-  "trade": "Renovation/Remodel",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/stockbridge-renovation-remodel"
- },
- {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Stockbridge",
   "trade": "Building",
   "value": "",
   "permit_page": "https://masspermits.com/permits/stockbridge-building"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Stockbridge",
   "trade": "Renovation/Remodel",
   "value": "",
   "permit_page": "https://masspermits.com/permits/stockbridge-renovation-remodel"
  },
  {
-  "date": "2026-09-21",
-  "town": "Cambridge",
+  "date": "2026-09-28",
+  "town": "Concord",
   "trade": "Electrical",
-  "value": 20000.0,
-  "permit_page": "https://masspermits.com/permits/cambridge-electrical"
- },
- {
-  "date": "2026-09-21",
-  "town": "Concord",
-  "trade": "HVAC",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/concord-hvac"
+  "permit_page": "https://masspermits.com/permits/concord-electrical"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Concord",
-  "trade": "Renovation/Remodel",
+  "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/concord-renovation-remodel"
+  "permit_page": "https://masspermits.com/permits/concord-plumbing"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Concord",
-  "trade": "Renovation/Remodel",
+  "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/concord-renovation-remodel"
+  "permit_page": "https://masspermits.com/permits/concord-plumbing"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "town": "Newbury",
   "trade": "Roofing",
   "value": "",
   "permit_page": "https://masspermits.com/permits/newbury"
  },
  {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
+  "town": "Newbury",
+  "trade": "Building",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/newbury"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Newbury",
+  "trade": "Building",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/newbury"
+ },
+ {
+  "date": "2026-09-28",
   "town": "West Newbury",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/west-newbury-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "West Newbury",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/west-newbury-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "West Newbury",
+  "trade": "Plumbing",
+  "value": "",
+  "permit_page": "https://masspermits.com/permits/west-newbury-plumbing"
+ },
+ {
+  "date": "2026-09-28",
+  "town": "Townsend",
   "trade": "Electrical",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/west-newbury-electrical"
+  "permit_page": "https://masspermits.com/permits/townsend"
  },
  {
-  "date": "2026-09-21",
-  "town": "Georgetown",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/georgetown"
- },
- {
-  "date": "2026-09-21",
-  "town": "Georgetown",
-  "trade": "Plumbing",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/georgetown"
- },
- {
-  "date": "2026-09-21",
-  "town": "Georgetown",
+  "date": "2026-09-28",
+  "town": "Townsend",
   "trade": "HVAC",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/georgetown"
+  "permit_page": "https://masspermits.com/permits/townsend"
  },
  {
-  "date": "2026-09-21",
-  "town": "Merrimac",
-  "trade": "HVAC",
+  "date": "2026-09-28",
+  "town": "Townsend",
+  "trade": "Solar",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/merrimac-hvac"
+  "permit_page": "https://masspermits.com/permits/townsend"
  },
  {
-  "date": "2026-09-21",
-  "town": "Merrimac",
-  "trade": "Demolition",
+  "date": "2026-09-28",
+  "town": "Wenham",
+  "trade": "Roofing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/merrimac"
+  "permit_page": "https://masspermits.com/permits/wenham"
  },
  {
-  "date": "2026-09-21",
-  "town": "Merrimac",
-  "trade": "Gas",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/merrimac"
- },
- {
-  "date": "2026-09-21",
-  "town": "Southampton",
-  "trade": "Other",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/southampton"
- },
- {
-  "date": "2026-09-21",
-  "town": "Southampton",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/southampton"
- },
- {
-  "date": "2026-09-21",
-  "town": "Southampton",
-  "trade": "Electrical",
-  "value": "",
-  "permit_page": "https://masspermits.com/permits/southampton"
- },
- {
-  "date": "2026-09-21",
-  "town": "Granby",
+  "date": "2026-09-28",
+  "town": "Hamilton",
   "trade": "Plumbing",
   "value": "",
-  "permit_page": "https://masspermits.com/permits/granby"
+  "permit_page": "https://masspermits.com/permits/hamilton-plumbing"
  }
 ]
