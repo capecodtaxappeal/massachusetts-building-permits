@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-09-28** — 100 recent Massachusetts building permits in this sample. Busiest towns: Braintree (3), Hingham (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Milton (3), Stoughton (3).
+**Updated 2026-10-12** — 100 recent Massachusetts building permits in this sample. Busiest towns: Rockland (3), Mashpee (3), Sandwich (3), Randolph (3), Stoughton (3), Easton (3), West Bridgewater (3), Hanson (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-09-28 | Roxbury | Plumbing | $3,000 |
-| 2026-09-28 | Roxbury | Gas | $300 |
-| 2026-09-28 | Braintree | Electrical | — |
-| 2026-09-28 | Braintree | Renovation/Remodel | — |
-| 2026-09-28 | Braintree | Electrical | — |
-| 2026-09-28 | Hingham | Renovation/Remodel | — |
-| 2026-09-28 | Hingham | Plumbing | — |
-| 2026-09-28 | Hingham | Plumbing | — |
-| 2026-09-28 | Rockland | Electrical | — |
-| 2026-09-28 | Rockland | Electrical | — |
-| 2026-09-28 | Falmouth | Electrical | — |
-| 2026-09-28 | Falmouth | Plumbing | — |
-| 2026-09-28 | Falmouth | Electrical | — |
-| 2026-09-28 | Mashpee | Electrical | — |
-| 2026-09-28 | Mashpee | Gas | — |
+| 2026-10-12 | Dorchester | Other | $5,587 |
+| 2026-10-12 | Rockland | Renovation/Remodel | — |
+| 2026-10-12 | Rockland | Roofing | — |
+| 2026-10-12 | Rockland | Roofing | — |
+| 2026-10-12 | Mashpee | Electrical | — |
+| 2026-10-12 | Mashpee | Renovation/Remodel | — |
+| 2026-10-12 | Mashpee | Building | — |
+| 2026-10-12 | Sandwich | Other | — |
+| 2026-10-12 | Sandwich | Renovation/Remodel | — |
+| 2026-10-12 | Sandwich | Renovation/Remodel | — |
+| 2026-10-12 | Randolph | Electrical | — |
+| 2026-10-12 | Randolph | Renovation/Remodel | — |
+| 2026-10-12 | Randolph | Renovation/Remodel | — |
+| 2026-10-12 | Stoughton | Sign/Awning | — |
+| 2026-10-12 | Stoughton | Electrical | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
