@@ -1,35 +1,33 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "sample_size": 100,
  "by_town": {
+  "Braintree": 3,
+  "Hingham": 3,
   "Rockland": 3,
+  "Falmouth": 3,
   "Mashpee": 3,
   "Sandwich": 3,
   "Randolph": 3,
+  "Milton": 3,
   "Stoughton": 3,
   "Easton": 3,
-  "West Bridgewater": 3,
   "Hanson": 3,
+  "Avon": 3,
+  "Cohasset": 3,
   "Attleboro": 3,
-  "Fairhaven": 3,
-  "Great Barrington": 3,
-  "Hadley": 3,
-  "Westhampton": 3,
-  "Lee": 3,
-  "Stockbridge": 3
+  "Mansfield": 3
  },
  "by_trade": {
-  "Electrical": 30,
-  "Renovation/Remodel": 27,
-  "Plumbing": 13,
+  "Electrical": 39,
+  "Renovation/Remodel": 18,
+  "Plumbing": 12,
   "Gas": 10,
-  "HVAC": 5,
-  "Building": 4,
-  "Other": 3,
-  "Roofing": 3,
-  "Windows/Doors/Siding": 3,
-  "Sign/Awning": 1,
-  "Solar": 1
+  "Building": 7,
+  "HVAC": 7,
+  "Other": 4,
+  "Roofing": 2,
+  "Demolition": 1
  },
  "source": "https://masspermits.com/feed/permits.json"
 }
