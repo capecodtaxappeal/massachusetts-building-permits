@@ -1,10 +1,7 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "sample_size": 100,
  "by_town": {
-  "Boston": 3,
-  "Dorchester": 3,
-  "Braintree": 3,
   "Hingham": 3,
   "Rockland": 3,
   "Falmouth": 3,
@@ -15,22 +12,25 @@
   "Stoughton": 3,
   "Easton": 3,
   "Hanson": 3,
-  "Avon": 3,
-  "Attleboro": 3
+  "Attleboro": 3,
+  "Mansfield": 3,
+  "Foxborough": 3,
+  "Fairhaven": 3,
+  "Bellingham": 3
  },
  "by_trade": {
-  "Electrical": 32,
-  "Renovation/Remodel": 26,
-  "Plumbing": 14,
-  "Gas": 13,
-  "Building": 5,
-  "Windows/Doors/Siding": 3,
-  "HVAC": 2,
-  "Solar": 1,
-  "Fire/Sprinkler": 1,
-  "Deck/Porch": 1,
-  "Other": 1,
-  "Sign/Awning": 1
+  "Electrical": 37,
+  "Renovation/Remodel": 17,
+  "Plumbing": 13,
+  "Gas": 12,
+  "HVAC": 7,
+  "Other": 3,
+  "Building": 3,
+  "Roofing": 3,
+  "Solar": 2,
+  "Windows/Doors/Siding": 1,
+  "Sign/Awning": 1,
+  "Kitchen/Bath": 1
  },
  "source": "https://masspermits.com/feed/permits.json"
 }

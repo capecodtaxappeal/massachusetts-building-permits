@@ -11,25 +11,25 @@ This repo publishes a **masked weekly preview** (town, trade, project value, dat
 ## This week's sample
 
 <!--STATS-->
-**Updated 2026-11-02** — 100 recent Massachusetts building permits in this sample. Busiest towns: Boston (3), Dorchester (3), Braintree (3), Hingham (3), Rockland (3), Falmouth (3), Mashpee (3), Sandwich (3).
+**Updated 2026-11-09** — 100 recent Massachusetts building permits in this sample. Busiest towns: Hingham (3), Rockland (3), Falmouth (3), Mashpee (3), Sandwich (3), Randolph (3), Milton (3), Stoughton (3).
 
 | Date | Town | Trade | Est. project value |
 |---|---|---|---|
-| 2026-11-02 | Boston | Gas | $50,000 |
-| 2026-11-02 | Dorchester | Electrical | $4,750 |
-| 2026-11-02 | Boston | Plumbing | $25,000 |
-| 2026-11-02 | Roslindale | Electrical | $800 |
-| 2026-11-02 | East Boston | Renovation/Remodel | $17,000 |
-| 2026-11-02 | Mattapan | Solar | $72,300 |
-| 2026-11-02 | Boston | Plumbing | $20,000 |
-| 2026-11-02 | Dorchester | Windows/Doors/Siding | $2,991 |
-| 2026-11-02 | Dorchester | Windows/Doors/Siding | $13,960 |
-| 2026-11-02 | Charlestown | Electrical | $28,000 |
-| 2026-11-02 | Roxbury | Electrical | $500 |
-| 2026-11-02 | Roxbury | Plumbing | $123,507 |
-| 2026-11-02 | Jamaica Plain | Gas | $540 |
-| 2026-11-02 | Roslindale | Fire/Sprinkler | $10,000 |
-| 2026-11-02 | Mattapan | Windows/Doors/Siding | $8,400 |
+| 2026-11-03 | Brighton | Solar | $93,895 |
+| 2026-11-03 | Hingham | Renovation/Remodel | — |
+| 2026-11-03 | Hingham | Electrical | — |
+| 2026-11-03 | Hingham | Renovation/Remodel | — |
+| 2026-11-03 | Rockland | Plumbing | — |
+| 2026-11-03 | Rockland | Windows/Doors/Siding | — |
+| 2026-11-03 | Rockland | Other | — |
+| 2026-11-03 | Falmouth | Plumbing | — |
+| 2026-11-03 | Falmouth | Electrical | — |
+| 2026-11-03 | Falmouth | Renovation/Remodel | — |
+| 2026-11-03 | Mashpee | Sign/Awning | — |
+| 2026-11-03 | Mashpee | Renovation/Remodel | — |
+| 2026-11-03 | Mashpee | Electrical | — |
+| 2026-11-03 | Sandwich | Other | — |
+| 2026-11-03 | Sandwich | Renovation/Remodel | — |
 <!--/STATS-->
 
 Full files: [`data/latest-permits.csv`](data/latest-permits.csv) · [`data/latest-permits.json`](data/latest-permits.json) · [`data/stats.json`](data/stats.json)
